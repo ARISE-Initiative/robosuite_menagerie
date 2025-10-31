@@ -9,7 +9,7 @@ See [compositional.py](robosuite_models/robots/compositional.py): how to compose
 | Robot Model | Names |
 | --- | --- |
 | `RobotBaseModel` | aloha_mount, b1_base, go2_base |
-| `GripperModel` | ability_hands, aloha_gripper, g1_three_finger_gripper, pr2_gripper, schunk_svh_hands, umi_gripper, yumi_gripper, z1_gripper |
+| `GripperModel` | arx_gripper,ability_hands, aloha_gripper, g1_three_finger_gripper, pr2_gripper, schunk_svh_hands, umi_gripper, yumi_gripper, z1_gripper |
 | `ManipulatorModel` | aloha_robot, arx5_robot, g1_robot, h1_robot, pr2_robot, vx330s_robot, yumi_robot, z1_robot |
 
 Example code:

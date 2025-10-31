@@ -28,7 +28,7 @@ class Arx5(ManipulatorModel):
 
     @property
     def default_gripper(self):
-        return {"right": "UMIGripper"}
+        return {"right": "ArxGripper"}  # use ArxGripper
 
     @property
     def default_controller_config(self):
